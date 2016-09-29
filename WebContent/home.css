@@ -1,0 +1,133 @@
+@CHARSET "ISO-8859-1";
+.box1{
+	background:#33bbff;
+	position:absolute;
+	top:00px;
+	left:00px;
+	width:700px;
+	height:150px;
+	width:1365px;
+	border:transparent;
+	padding:00px;
+	margin:00px;
+	
+}
+#logo
+{
+	position:absolute;
+	top:10px;
+	left:130px;
+	
+}
+#header-text
+{
+	font-family: 'David Libre', serif;
+	font-size:70px;
+	position:absolute;
+	top:25px;
+	left:250px;
+	
+}
+hr
+{
+	height:1px; 
+	border:none; color:#000;
+	 background-color:#000; 
+	 width:100%; 
+	 text-align:center; 
+	 margin: 0 auto;
+	 position:absolute;
+	top:150px;
+	left:00px;
+}
+.box2
+{
+	background: #ffcccc;
+	position:absolute;
+	top:150px;
+	left:00px;
+	width:700px;
+	height:500px;
+	width:1365px;
+	border:transparent;
+	padding:00px;
+	margin:00px;
+}
+.round-button {
+	position:absolute;
+	top:150px;
+	left:610px;
+    display:block;
+    width:120px;
+    height:120px;
+    line-height:50px;
+    border: 2px solid #f5f5f5;
+    border-radius: 50%;
+    
+    text-decoration:none;
+    background: #33bbff;
+    box-shadow: 0 0 3px gray;
+    font-size:20px;
+    font-weight:bold;
+}
+.round-button:hover {
+    background:red;
+}
+#button-text
+{
+	font-family: 'David Libre', serif;
+	color:black;
+position:absolute;
+	top:34px;
+	left:25px;	
+}
+.box3
+{
+	background:white;
+	position:absolute;
+	top:655px;
+	left:00px;
+	width:700px;
+	height:500px;
+	width:1365px;
+	border:transparent;
+	padding:00px;
+	margin:00px;
+}
+#cv1
+{
+	position:absolute;
+	top:05px;
+	left:10px;
+	
+}
+#cv2
+{
+	position:absolute;
+	top:05px;
+	left:676px;
+	
+}
+.box4
+{
+	background:black;
+	position:absolute;
+	top:1156px;
+	left:00px;
+	width:100%;
+	height:50px;
+	width:1365px;
+	border:transparent;
+	padding:00px;
+	margin:00px;
+	
+}
+#footer-text
+{
+	font-family: 'David Libre', serif;
+	font-size:20px;
+	color:white;
+	position:absolute;
+	top:15px;
+	left:400px;
+}
