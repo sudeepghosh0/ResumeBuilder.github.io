@@ -620,7 +620,7 @@ public class Handler extends HttpServlet
 			e.printStackTrace();
 		}
 		HttpSession session=request.getSession();
-		RequestDispatcher rs=request.getRequestDispatcher("DownloadPage.jsp");
+		RequestDispatcher rs=request.getRequestDispatcher("WebContent/DownloadPage.html");
 		try {
 			rs.forward(request,response);
 		} catch (Exception e) {
